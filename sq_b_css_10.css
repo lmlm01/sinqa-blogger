@@ -1,0 +1,65 @@
+
+.no-sidebar .column-1-3 .textarea_wrapper, .column-1-3 .textarea_wrapper, .no-sidebar .column-1-4 .textarea_wrapper, .column-1-4 .textarea_wrapper, .no-sidebar .column-1-2 .textarea_wrapper, .column-1-2 .textarea_wrapper,
+.column-2-3 .textarea_wrapper,
+.no-sidebar .column-1-3 .input_column_wrapper, .column-1-3 .input_column_wrapper, .no-sidebar .column-1-4 .input_column_wrapper, .column-1-4 .input_column_wrapper, .no-sidebar .column-1-2 .input_column_wrapper, .column-1-2 .input_column_wrapper {margin-left:0;width:100%; float: none; margin-bottom: 15px; clear: both;}
+.no-sidebar .column-1-3 .input_field, .column-1-3 .input_field, .no-sidebar .column-1-4 .input_field, .column-1-4 .input_field {
+	width: 75%;
+}
+
+.column-1-3 .input_field, .column-1-4 .input_field {
+	width: 75%;
+	padding-left: 5px;
+}
+.no-sidebar .column-1-3 .input_title, .column-1-3 .input_title, .no-sidebar .column-1-4 .input_title, .column-1-4 .input_title {
+	width: 25%;
+}
+
+/*				ELEMENTS				*/
+
+.bottomads {
+float: left;
+margin-right: 19.5px;
+border-right: 1px solid #BBB;
+padding-right: 19.5px;
+}
+
+/*				banners					*/
+
+.static_banner_wrapper {width:100%; background:#e84c3d;}
+.static_banner_wrapper .inner_wrap {width:960px; margin:auto; padding: 40px 0; position: relative; }
+.static_banner_wrapper .text {font-size:22px; line-height:24px; color:#ffffff; font-weight:600; padding-right:150px;}
+.static_banner_wrapper .read_more {position:absolute; top:50%; right:0; border: 1px solid #ffffff; margin-top:-22px;}
+.static_banner_wrapper .read_more:hover {background: #fff !important; color: #e84c3d !important;}
+
+.static_banner_wrapper.twitter_banner .inner_wrap {padding: 20px 0;}
+.static_banner_wrapper.twitter_banner a:hover {text-decoration: underline;}
+.static_banner_wrapper.twitter_banner .text_wrap {float:left; width:905px;}
+.static_banner_wrapper.twitter_banner img {float:left; display: block; margin-right:20px; margin-top:10px;}
+.static_banner_wrapper .twitter_link {color:#ffffff;}
+.static_banner_wrapper .twitter_link a {color:#ffffff; display:inline; font-weight:600;}
+.static_banner_wrapper .twitt {color:#ffffff;}
+.static_banner_wrapper .twitt a {color:#333333; display: inline; font-weight:500;}
+
+
+
+
+
+/* EXTRA */
+.real_content { width:632px; float:left; }
+.no-sidebar .real_content { width:100%; float:none; }
+#footer-twitter {z-index:1;position:relative;}
+.content > div.headline_wrapper { margin:8px 0 48px !important; }
+.slider_wrapper.index3 {overflow:hidden;}
+.blog_post_text.large {display:block !important;}
+.rev_slider_wrapper.fullwidthbanner-container {padding:0 !important;}
+#respond textarea {font-family:inherit;}
+.zoom_wrap > span > img:first-child {height:224px;}
+.twitter .inner_wrap {display:none;}
+.woocommerce-tabs {margin-bottom:48px;}
+span.onsale {z-index:23;}
+.products_wrapper .pagination {margin-bottom: 24px;}
+.search-form span.input_title{width:30%;}
+.search-form input.input_field{width:70%;}
+.search-form .input_wrapper {margin-bottom:0px;}
+.search .real_content .search-form {margin-top:24px;margin-bottom:12px;}
+.content_slider_wrapper .image_more_info {border-radius:40px 40px 40px 40px;overflow:hidden;position:absolute;left:0px;top:0px;bottom:auto;right:auto;z-index: 10;}
