@@ -1,0 +1,225 @@
+.single-tags, .single-categories {line-height:25px;}
+.link-pages p {margin-bottom:0 !important;}
+.gallery dl {margin:0;}
+li.post.pingback {margin-bottom:24px !important;}
+.about_the_author {margin-top:48px;}
+.tabs ul, .tabs li, .products_sidebar ul, .products_sidebar li, .select_menu ul, .select_menu li {margin: 0;padding: 0;list-style: none;list-style-image: none;}
+.content_slider_text_block_wrap {font-size:16px;line-height:20px;}
+.all_around_related .blog_content.type-5 .blog_post.no_thumbnail .blog_post_main_content {border-top:0 !important;}
+.single .blog_post.no_thumbnail .blog_post_wrapper > h3, .blog_content.type-1 .blog_post.no_thumbnail .blog_post_wrapper > h3 {margin-left:0;}
+.single .no-sidebar .blog_post.no_thumbnail .blog_post_main_content, .no-sidebar .blog_content.type-1 .blog_post.no_thumbnail .blog_post_main_content {float:none;width:960px;}
+.single .blog_post.no_thumbnail .blog_post_main_content, .blog_content.type-1 .blog_post.no_thumbnail .blog_post_main_content {width:632px;}
+.real_content > div.wp-caption {clear:both;}
+.blog_content.type-7 .pagination_wrapper {margin-top:24px;}
+.wp-caption {max-width:632px}
+.wp-caption img {max-width:622px}
+.no-sidebar .wp-caption {max-width:940px}
+.no-sidebar .wp-caption img {max-width:930px}
+
+
+h2.date-header {
+display:none;
+margin:1.5em 0 .5em
+}
+
+.post {
+color:#000;
+margin:0;
+padding:0;
+}
+
+.post h3 {
+display: block;
+font-size: 22px !important;
+color: #484848;
+line-height: 23px;
+font-weight: 500;
+margin-right: 20px;
+margin-top: 0;
+}
+
+.post h3 a {
+color: #484848;
+}
+
+.post h3 a:hover {
+color:#e84c3d;
+text-decoration:none
+}
+
+header {
+margin-bottom: 120px;
+}
+.post img {
+margin-left:1px;
+max-width:570px;
+padding:0;
+}
+
+.post-body {
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+text-align: left;
+color: #484848;
+margin: 20px 0;
+}
+
+
+.post blockquote {
+background:url(http://lh3.ggpht.com/_1RC6aqxCk8A/TI0LHHnVV4I/AAAAAAAAARc/VXWivJSbi5E/quote1_thumb%5B5%5D.png) no-repeat;
+color:#3B0B0B;
+margin:10px;
+padding:10px 10px 10px 40px
+}
+
+.author_date_comments {
+margin-left: 4px; margin-top: 6px;
+}
+
+
+.post-footer {
+color:#000;
+font-size:11px;
+text-transform:none;
+margin:0;
+padding:0 0 5px
+}
+
+.post-related {
+color:#000;
+font-size:12px;
+margin-bottom:15px;
+padding:0
+}
+
+.postauthor {
+font-size:11px;
+line-height:12px;
+}
+
+.postauthor a {
+color:#0B0B61;
+font-style:normal;
+border:none
+}
+
+.postauthor a:hover {
+color:#000;
+text-decoration:none
+}
+
+
+
+.readmore {
+float: left;
+}
+
+.readmore a {
+cursor: pointer;
+display: inline-block;
+font-size: 16px;
+color: #e84c3d;
+line-height: 16px;
+margin-top: 20px;
+padding: 13px 26px 15px 25px;
+background-color: #e84c3d;
+color: #f2f2f2;
+border-radius: 3px;
+-webkit-touch-callout: none;
+-webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+user-select: none;
+behavior: url(PIE/PIE.htc);
+position: relative;
+}
+
+.readmore a:hover {
+color:#fff;
+background:rgb(255, 109, 94);
+text-decoration:none;
+}
+
+
+.PopularPosts .item-thumbnail {
+float:left;
+margin:0 10px 5px 0
+}
+
+.PopularPosts .widget-content ul li {
+list-style-type:none;
+background:none;
+padding:.5em 0;
+margin:0;
+}
+
+.PopularPosts img {
+padding: 0;
+border: #2a3c3e solid 6px;
+border-radius: 100px;
+}
+
+.PopularPosts .item-title {
+padding-bottom:.2em;
+}
+
+.header_menu a:hover {
+background: rgb(232, 76, 61);
+}
+
+
+.sidebar h2 {
+font-size: 22px !important;
+line-height: 18px;
+color: #2a3c3e;
+display: block;
+width: 280px;
+padding-bottom: 8px;
+border-bottom: #7e7e7e solid 1px;
+margin-bottom: 15px;
+margin-top: 0;
+font-weight: 600;
+}
+.logo:hover {
+border-color: #e84c3d;
+}
+
+.logo {
+width: 129px;
+float: left;
+color: #fff;
+text-transform: uppercase;;
+margin-top: -31px;;
+background: #F0F0F0;
+height: 127px;
+border-radius: 558px;
+border: 8px solid;
+box-shadow: 0px 0px 12px -2px #000;
+}
+
+.titlewrapper {
+margin-top: 45px;
+text-align: center;
+}
+
+.descriptionwrapper {
+text-align: center;
+}
+
+.descriptionwrapper p{
+color: #7C7C7C;
+text-transform: none;
+font-size: 13px;
+text-align: center;
+}
+
+
+.logo h11 {
+color: #e84c3d;
+text-shadow: none;
+margin-top: 45px;
+font-size: 34px;
+text-align: center;
+}
