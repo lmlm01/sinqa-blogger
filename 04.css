@@ -1,0 +1,249 @@
+
+.logo a:hover{
+color: #e84c3d;
+text-shadow: none;
+}
+
+.footer h2 {
+color: #ffffff;
+display: block;
+margin-bottom: 10px;
+font-size: 22px !important;
+text-transform: uppercase;
+}
+.comments .avatar-image-container, .comments .avatar-image-container img {
+width: 113px;
+max-width: 99px;
+max-height: 148px;
+background: #FFF;
+float: left;
+border-radius: 50%;
+-moz-border-radius: 50%;
+}
+
+#comments .avatar-image-container img {
+border: 1px solid #ddd;
+}
+
+.comments .comment-thread.inline-thread .avatar-image-container, .comments .comment-thread.inline-thread .avatar-image-container img {
+width: 55px;
+max-width: 50px;
+height: 50px;
+max-height: 50px;
+margin-left: 1px;
+margin-top: 1px;
+}
+#comments {
+background-color: #fff;
+padding-top: 20px;
+border-top: 1px solid #ddd;
+}
+
+.comments .comment-block,.comments .comments-content .comment-replies,.comments .comment-replybox-single {
+margin-left: 107px;
+width: 524px;
+}
+
+.comments .comment-block,.comments .comment-thread.inline-thread .comment {
+border:1px solid #ddd;
+background:#fff;
+background-color:#fff;
+padding:10px;
+padding-right:0px;
+padding-left: 0px;
+}
+
+.comment-header {
+border-bottom: 1px solid #ddd;
+padding-bottom: 10px;
+}
+
+.thread-chrome.thread-expanded .comment-header {
+width: 412px;
+margin-left: 15px;
+margin-top: 4px;
+}
+.comments .comments-content .comment {
+width:100%;
+line-height:1em;
+font-size:13px;
+margin:15px 0 0;
+padding:0;
+}
+.comments .comments-content .comment-content {
+text-align: justify;
+line-height: 22px;
+overflow: hidden;
+}
+.thread-chrome.thread-expanded .comment-content {
+width: 380px;
+line-height: 22px;
+overflow:hidden
+}
+.comments .comment-thread.inline-thread .comment-actions {
+display: none;
+}
+
+.item-control.blog-admin {
+display: none;
+}
+.comments .comments-content .comment-replies {
+margin-top:0;
+}
+
+.comments .comment-content {
+line-height: 1.4em;
+padding: 15px;
+}
+
+.comments .comment-thread.inline-thread {
+padding-left: 0px;
+}
+
+.comments .comment-thread.inline-thread .comment {
+width:auto;
+}
+
+.comments .comment-thread.inline-thread .comment:after {
+content:"";
+position:absolute;
+top:10px;
+left:-20px;
+border-top:1px solid #d2d2d2;
+width:10px;
+height:0;
+}
+
+.comments .comment-thread.inline-thread .comment .comment-block {
+border:0;
+background:transparent;
+padding:0;
+}
+
+.comments .comment-thread.inline-thread .comment-block {
+margin-left:48px;
+}
+.comments .continue {
+border-top:0;
+width:100%;
+}
+
+#comment-editor {
+width:98%!important;
+}
+
+.comment-form {
+width:100%;
+max-width:100%;
+}
+#comments h4 {
+display:inline;
+line-height:40px;
+padding:10px;
+}
+
+.comments .continue a {
+background:#0d86cc;
+text-align:center;
+padding:10px 0;
+display:none;
+}
+
+#comments h4,.comments .continue a {
+line-height: 30px;
+margin: 0;
+padding: 20px 0 14px 10px;
+font-size: 18px!important;
+text-transform: uppercase;
+font-weight: 400!important;
+color: #444;
+}
+
+.comments .user a {
+color: #444!important;
+font-size: 18px;
+line-height: 25px;
+text-transform: capitalize;
+margin-top: 20px;
+font-weight: 600;
+padding-left: 15px;
+}
+
+.comments .comments-content .datetime {
+cursor: pointer;
+float: right;
+padding-top: 6px;
+padding-right: 20px;
+}
+
+.icon.user {
+height: 12px;
+width: 16px;
+display: inline-block;
+margin: 0 0 -4px 6px;
+}
+.comment-actions {
+padding: 11px 0;
+border-radius: 5px;
+background: #e84c3d;
+color: #fff;
+float: right;
+margin: -26px 0 0 0px;
+font-family: 'Dosis', sans-serif;
+font-weight: 100;
+border: none;
+cursor: pointer;
+text-align: center;
+width: 100px;
+max-width: 42.8%;
+box-sizing: border-box;
+-ms-box-sizing: border-box;
+-moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+}
+.comment-actions:hover {
+background: #B13A2F;
+}
+
+.comment-thread a {
+color: #777;
+}
+
+.comments .comment .comment-actions a:hover {
+text-decoration: none;
+}
+.comments .comment .comment-actions a {
+padding-right: 3px;
+padding-left: 5px;
+color: #fff;
+font-size: 16px;
+}
+
+.comments .comment-thread.inline-thread .user a {
+font-size:13px;
+margin: 0px;
+padding: 0px;
+}
+comment-actions {
+background: #f2f2f2;
+padding: 8px;
+margin-left: 435px;
+border: 1px solid #ddd;
+float: right;
+margin-top: -30px;
+margin-right: 5px;
+}
+
+.comment-thread a {
+color: #777;
+}
+
+.comments .comment .comment-actions a:hover {
+text-decoration: none;
+}
+.comments .comments-content .icon.blog-author {
+display: inline-block;
+height: 18px;
+margin: 0 0 -4px 6px;
+width: 18px;
+}
